@@ -1,8 +1,10 @@
-Name : Rija R
-company:codtech IT solutions
-Domain: Data Analytics
-ID:CT12DS2209
+# User Information
 
+- **Name:** Rija R.
+- **Company:** CodTech IT Solutions
+- **Domain:** Data Analytics
+- **ID:** CT12DS2209
+- **Duration:** August to October
 
 
 This project is an exploratory data analysis (EDA) of a dataset containing information about various roller coasters. 
